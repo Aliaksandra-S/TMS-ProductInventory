@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ProductInventory": {
+      "commandName": "Project",
+      "workingDirectory": "."
+    }
+  }
+}
